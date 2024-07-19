@@ -16,6 +16,7 @@ setup(
     author_email="en@ig.ma",
 
     url="https://github.com/nigma/django-twilio-sms",
+    # download_url="https://github.com/nigma/django-twilio-sms/zipball/master",
     download_url="https://github.com/nigma/django-twilio-sms/zipball/master",
 
     long_description=open("README.rst").read(),
